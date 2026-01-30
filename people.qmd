@@ -52,15 +52,12 @@ format:
     link-external-newwindow: true
 ---
 
-
 ## Team
 
-:::{#lab-member}
+::: {#lab-member}
 :::
-
 
 ## Alumni
 
-:::{#lab-alumni}
+::: {#lab-alumni}
 :::
-
